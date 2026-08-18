@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.env.*
+.serena/
+coverage/
+lib/
+node_modules/
+*.tgz
+demo/*.gif
+lib/
+node_modules/
+coverage/
+*.tgz
+.DS_Store

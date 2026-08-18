@@ -1,0 +1,3 @@
+- insert:
+  - id: install-guard
+    name: dsh-install-guard
