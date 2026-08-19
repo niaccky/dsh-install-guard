@@ -1,5 +1,7 @@
 # dsh-install-guard
 
+本项目积极参与并认可 [Linux DO 社区](https://linux.do)。
+
 在 DeepSeek Harness 执行 `npm install` **之前**，检查依赖漏洞、许可证、体积与包健康度，并按策略放行、请求人工确认或拒绝。
 
 Audit npm dependencies for vulnerabilities, licenses, bundle size, and package health **before** DeepSeek Harness executes an install command.
