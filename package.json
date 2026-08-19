@@ -79,6 +79,17 @@
     "@deepseek-ai/dsh-llm": ">=0.1.0-rc.7 <0.2.0",
     "@deepseek-ai/dsh-tools": ">=0.1.0-rc.7 <0.2.0"
   },
+  "peerDependenciesMeta": {
+    "@deepseek-ai/cordis": {
+      "optional": true
+    },
+    "@deepseek-ai/dsh-llm": {
+      "optional": true
+    },
+    "@deepseek-ai/dsh-tools": {
+      "optional": true
+    }
+  },
   "devDependencies": {
     "@deepseek-ai/cordis": "4.0.1",
     "@deepseek-ai/dsh-llm": "0.1.0-rc.7",
